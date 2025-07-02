@@ -1,3 +1,5 @@
+# Solar Display with Waveshare ESP32-S3-Touch-LCD-4.3
+
 # DRAFT: This is only a copy and must be edited
 
 | Supported ESP SoCs |  ESP32-S3 | Waveshare ESP32-S3-Touch-LCD-4.3 |
