@@ -23,6 +23,7 @@
 
 /**
  * TODO: Beschreibung....
+ * Template für diese Datei:
  */
 #include "secure.h"
 
